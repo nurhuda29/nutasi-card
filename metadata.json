@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Nutasi Card",
+  "description": "Digital Hub \u0026 Link-in-Bio resmi untuk UKM Musik Nutasi Universitas",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
